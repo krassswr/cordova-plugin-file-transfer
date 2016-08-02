@@ -44,10 +44,6 @@
     "cordova-firefoxos",
     "cordova-browser"
   ],
-  "peerDependencies": {
-    "type": "git",
-    "url": "https://github.com/krassswr/cordova-plugin-file.git"
-  },
   "author": "Apache Software Foundation",
   "license": "Apache-2.0",
   "devDependencies": {
